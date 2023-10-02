@@ -6,11 +6,11 @@ permalink: /about/
 
 Hi, I'm Kevin Matz.
 
-This is my new blog.
+This is my new blog. I'm still working on setting it up!
 
-Visit my main website at: [https://www.kevinmatz.com](kevinmatz.com)
+Visit my main website at: [kevinmatz.com](https://www.kevinmatz.com)
 
+### Contact me:
 
-### Contact me
+- kevin -at- kevinmatz.com
 
-[email@domain.com](mailto:email@domain.com)

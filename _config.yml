@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kevin Matz's Test Blog
+name: Intellectagram
 
 # Short bio or description (displayed in the header)
-description: Adventures in technology, management, and the humanities
+description: Kevin Matz's adventures in technology, management, and the humanities
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/1174117?v=4
@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin: kevinmatthewmatz
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
