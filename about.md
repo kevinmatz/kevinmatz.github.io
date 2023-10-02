@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Kevin Matz.
 
-### More Information
+This is my new blog.
 
-A place to include any other types of information that you'd like to include about yourself.
+Visit my main website at: [https://www.kevinmatz.com](kevinmatz.com)
+
 
 ### Contact me
 
